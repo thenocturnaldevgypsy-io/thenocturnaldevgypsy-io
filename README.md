@@ -71,9 +71,6 @@ Importing in progress...
 ## ![SECTION My Active Public Repos](https://custom-icon-badges.demolab.com/badge/-My%20Active%20Public%20Repos-24292e?logo=repo&logoColor=white&labelColor=00416a)
 <a href="https://github.com/thenocturnaldevgypsy/ama-ask-me-anything"><img align="center" src="https://github-readme-stats-six-silk-55.vercel.app/api/pin/?username=thenocturnaldevgypsy&repo=ama-ask-me-anything&theme=transparent&hide_border=true" /></a> <a href="https://github.com/thenocturnaldevgypsy/gypsyshards-bootstrap-template-linkinbio"><img align="center" src="https://github-readme-stats-six-silk-55.vercel.app/api/pin/?username=thenocturnaldevgypsy&repo=gypsyshards-bootstrap-template-linkinbio&theme=transparent&hide_border=true" /></a>
 
-
-
-
 - 👋 Hi, I’m @thenocturnaldevgypsy-io
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
