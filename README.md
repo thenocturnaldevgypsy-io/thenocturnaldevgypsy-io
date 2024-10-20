@@ -1,7 +1,7 @@
 ## <img src="md_assets/meow_wave_peak.png" height="30"/> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&weight=500&size=19&letterSpacing=3&duration=6000&pause=3000&vCenter=true&width=490&height=25&lines=Ohayo++%2C+I'm+Abby+(%40TheNocturnalDevGypsy+since+2002))](https://git.io/typing-svg) 
 
 - :octocat: : Full-time Technical Project Manager, Freelance Technical Writer and Old-school Full-Stack Developer. I was also an Academic Head of School of Computer Studies & Assistant Professor, but `on-hiatus`.
-- 😱 : My previous GitHub account (since October 2014) got flagged for no apparent reason `https://github.com/thenocturnaldevgypsy`, so I am recreating my public and private repos ATM.
+- 😱 : My previous GitHub account since October 2014 got flagged for no reason given `https://github.com/thenocturnaldevgypsy`, so I am recreating my public and private repos ATM.
 - 🧪 : Exploring AI Text to Image Prompts, Learning more about Crypto and NFTs, Catching up with Frontend and Backend technologies ATM (and some [Code Challenges](https://github.com/thenocturnaldevgypsy/code_challenges) too).
 - 💬 : Ask me anything you want, in [my AMA repo](https://github.com/thenocturnaldevgypsy-io/ama-ask-me-anything).
 
@@ -57,7 +57,7 @@
 
 ## ![SECTION My Active Public Repos](https://custom-icon-badges.demolab.com/badge/-My%20Active%20Public%20Repos-24292e?logo=repo&logoColor=white&labelColor=00416a)
 
-Importing in progress...
+<a href="https://github.com/thenocturnaldevgypsy-io/ama-ask-me-anything"><img align="center" src="https://github-stats-iota-henna.vercel.app/api/pin/?username=thenocturnaldevgypsy-io&repo=ama-ask-me-anything&theme=transparent&hide_border=true" /></a>
 
 ## ![SECTION My Github & Activity Stats](https://custom-icon-badges.demolab.com/badge/-My%20Github%20&%20Activity%20Stats-24292e?logo=activity&logoSource=feather&logoColor=white&labelColor=00416a)
 <img width="420" valign="top" align="center" src="https://github-stats-iota-henna.vercel.app/api?username=thenocturnaldevgypsy-io&rank_icon=github&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" /><img valign="top" align="center" src="https://streak-stats.demolab.com?user=thenocturnaldevgypsy-io&theme=transparent&hide_border=true&card_width=380&card_height=&type=png" alt="GitHub Streak" />
