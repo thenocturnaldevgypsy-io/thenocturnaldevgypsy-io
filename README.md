@@ -14,7 +14,7 @@
 
 ## ![SECTION Not so Fun Fact!](https://custom-icon-badges.demolab.com/badge/-Not%20so%20Fun%20Fact!-24292e?logo=thumbsdown&logoColor=white&labelColor=00416a)
 
-↦ 😱 : My 10 years 11 days old `@thenocturnaldevgypsy` GitHub account since October 8, 2014 got flagged for no reason as of October 18, 2024. I ended up recreating all my public and private repos ATM at `@thenocturnaldevgypsy-io`.
+↦ 😱 : My 10 years 11 days old `@thenocturnaldevgypsy` GitHub account since October 8, 2014 got flagged for no reason as of October 18, 2024. I ended up recreating all my public and private repos at `@thenocturnaldevgypsy-io`.
 
 ## ![SECTION Me else(web)where...](https://custom-icon-badges.demolab.com/badge/-Me%20else%28web%29where...-24292e?logo=rocket&logoColor=white&labelColor=00416a)
 
