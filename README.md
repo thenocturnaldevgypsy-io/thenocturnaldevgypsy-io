@@ -1,17 +1,17 @@
 ## <img src="md_assets/meow_wave_peak.png" height="30"/> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&weight=500&size=19&letterSpacing=3&duration=6000&pause=3000&vCenter=true&width=490&height=25&lines=Ohayo++%2C+I'm+Abby+(%40TheNocturnalDevGypsy+since+2002))](https://git.io/typing-svg) 
 
-→ :octocat: : Full-time Technical Project Manager, Freelance Technical Writer and Old-school Full-Stack Developer. I was also an Academic Head of School of Computer Studies & Assistant Professor, but `on-hiatus` at the moment.
+⇒ :octocat: : Full-time Technical Project Manager, Freelance Technical Writer and Old-school Full-Stack Developer. I was also an Academic Head of School of Computer Studies & Assistant Professor, but `on-hiatus`.
 
-→ 🧪 : Exploring AI Text to Image Prompts, Learning more about Crypto and NFTs, Catching up with Frontend and Backend technologies ATM (and some [Code Challenges](https://github.com/thenocturnaldevgypsy-io/code_challenges) too).
+⇒ 🧪 : Exploring AI Text to Image Prompts, Learning more about Crypto and NFTs, Catching up with Frontend and Backend technologies ATM (and some [Code Challenges](https://github.com/thenocturnaldevgypsy-io/code_challenges) too).
 
-→ 💬 : Ask me anything you want, in [my AMA repo](https://github.com/thenocturnaldevgypsy-io/ama-ask-me-anything).
+⇒ 💬 : Ask me anything you want, in [my AMA repo](https://github.com/thenocturnaldevgypsy-io/ama-ask-me-anything).
 
 ## ![SECTION Not so Fun Fact!](https://custom-icon-badges.demolab.com/badge/-Not%20so%20Fun%20Fact!-24292e?logo=thumbsdown&logoColor=white&labelColor=00416a)
 
-→ 😱 : My old GitHub account since October 8, 2014 got flagged for no reason given (`@thenocturnaldevgypsy`), so I am recreating all my public and private repos ATM at `@thenocturnaldevgypsy-io`.
+⇒ 😱 : My old GitHub account since October 8, 2014 got flagged for no reason given (`@thenocturnaldevgypsy`), so I am recreating all my public and private repos ATM at `@thenocturnaldevgypsy-io`.
 
 ## ![SECTION Fun Fact!](https://custom-icon-badges.demolab.com/badge/-Fun%20Fact!-24292e?logo=paintbrush&logoColor=white&labelColor=00416a)
-→ 🎨 : I do traditional Pen and Ink + Watercolour Illustrations too!
+⇒ 🎨 : I do traditional Pen and Ink + Watercolour Illustrations too!
 
 [![Website](https://custom-icon-badges.demolab.com/badge/-www.yaindigo.art-24292e?logo=globe&logoColor=white&labelColor=00416a)](https://www.yaindigo.art)
 [![Beacons.ai](https://custom-icon-badges.demolab.com/badge/-beacons.ai/yaindigo.art-24292e?logo=ai-model&logoColor=white&labelColor=00416a)](https://beacons.ai/yaindigo.art)
