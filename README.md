@@ -2,19 +2,19 @@
 
 ↦ :octocat: : Full-time Technical Project Manager, Freelance Technical Writer and Old-school Full-Stack Developer. I was also an Academic Head of School of Computer Studies & Assistant Professor, but `on-hiatus`.
 
-↪ 🧪 : Exploring AI Text to Image Prompts, Learning more about Crypto and NFTs, Catching up with Frontend and Backend technologies ATM (and some [Code Challenges](https://github.com/thenocturnaldevgypsy-io/code_challenges) too).
+↦ 🧪 : Exploring AI Text to Image Prompts, Learning more about Crypto and NFTs, Catching up with Frontend and Backend technologies ATM (and some [Code Challenges](https://github.com/thenocturnaldevgypsy-io/code_challenges) too).
 
-↪ 💬 : Ask me anything you want, in [my AMA repo](https://github.com/thenocturnaldevgypsy-io/ama-ask-me-anything).
+↦ 💬 : Ask me anything you want, in [my AMA repo](https://github.com/thenocturnaldevgypsy-io/ama-ask-me-anything).
 
 ## ![SECTION Fun Fact!](https://custom-icon-badges.demolab.com/badge/-Fun%20Fact!-24292e?logo=paintbrush&logoColor=white&labelColor=00416a)
-↪ 🎨 : I do traditional Pen and Ink + Watercolour Illustrations too!
+↦ 🎨 : I do traditional Pen and Ink + Watercolour Illustrations too!
 
 [![Website](https://custom-icon-badges.demolab.com/badge/-www.yaindigo.art-24292e?logo=globe&logoColor=white&labelColor=00416a)](https://www.yaindigo.art)
 [![Beacons.ai](https://custom-icon-badges.demolab.com/badge/-beacons.ai/yaindigo.art-24292e?logo=ai-model&logoColor=white&labelColor=00416a)](https://beacons.ai/yaindigo.art)
 
 ## ![SECTION Not so Fun Fact!](https://custom-icon-badges.demolab.com/badge/-Not%20so%20Fun%20Fact!-24292e?logo=thumbsdown&logoColor=white&labelColor=00416a)
 
-↪ 😱 : My 10 years 11 days old `@thenocturnaldevgypsy` GitHub account since October 8, 2014 got flagged for no reason as of October 18, 2024. I ended up recreating all my public and private repos ATM at `@thenocturnaldevgypsy-io`.
+↦ 😱 : My 10 years 11 days old `@thenocturnaldevgypsy` GitHub account since October 8, 2014 got flagged for no reason as of October 18, 2024. I ended up recreating all my public and private repos ATM at `@thenocturnaldevgypsy-io`.
 
 ## ![SECTION Me else(web)where...](https://custom-icon-badges.demolab.com/badge/-Me%20else%28web%29where...-24292e?logo=rocket&logoColor=white&labelColor=00416a)
 
