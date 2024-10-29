@@ -1,6 +1,6 @@
 ## <img src="md_assets/meow_wave_peak.png" height="30"/> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&weight=500&size=19&letterSpacing=3&duration=6000&pause=3000&vCenter=true&width=490&height=25&lines=Ohayo++%2C+I'm+Abby+(%40TheNocturnalDevGypsy+since+2002))](https://git.io/typing-svg) 
 
-- :octocat: : Full-time Technical Project Manager, Freelance Technical Writer and Old-school Full-Stack Developer. I was also an Academic Head of School of Computer Studies & Assistant Professor, but `on-hiatus`.
+- :octocat: : Full-time Technical Project Manager, Freelance Technical Writer and Old-school Full-Stack Developer. I was also an Academic Head of School of Computer Studies & Assistant Professor, but `on-hiatus` at the moment.
 - 🧪 : Exploring AI Text to Image Prompts, Learning more about Crypto and NFTs, Catching up with Frontend and Backend technologies ATM (and some [Code Challenges](https://github.com/thenocturnaldevgypsy-io/code_challenges) too).
 - 💬 : Ask me anything you want, in [my AMA repo](https://github.com/thenocturnaldevgypsy-io/ama-ask-me-anything).
 
@@ -108,9 +108,6 @@ PHP                      1 repo              ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜�
 <!--END_SECTION:waka-->
 
 <!---
-## ![SECTION My Active Public Repos](https://custom-icon-badges.demolab.com/badge/-My%20Active%20Public%20Repos-24292e?logo=repo&logoColor=white&labelColor=00416a)
-<a href="https://github.com/thenocturnaldevgypsy/ama-ask-me-anything"><img align="center" src="https://github-readme-stats-six-silk-55.vercel.app/api/pin/?username=thenocturnaldevgypsy&repo=ama-ask-me-anything&theme=transparent&hide_border=true" /></a> <a href="https://github.com/thenocturnaldevgypsy/gypsyshards-bootstrap-template-linkinbio"><img align="center" src="https://github-readme-stats-six-silk-55.vercel.app/api/pin/?username=thenocturnaldevgypsy&repo=gypsyshards-bootstrap-template-linkinbio&theme=transparent&hide_border=true" /></a>
-
 - 👋 Hi, I’m @thenocturnaldevgypsy-io
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
