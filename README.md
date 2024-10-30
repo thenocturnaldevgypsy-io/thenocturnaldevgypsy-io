@@ -1,10 +1,12 @@
 ## <img src="md_assets/meow_wave_peak.png" height="30"/> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&weight=500&size=19&letterSpacing=3&duration=6000&pause=3000&vCenter=true&width=490&height=25&lines=Ohayo++%2C+I'm+Abby+(%40TheNocturnalDevGypsy+since+2002))](https://git.io/typing-svg) 
 
+<a href="https://github.com/thenocturnaldevgypsy-io/ama-ask-me-anything"><img align="right" valign="top" src="https://github-stats-iota-henna.vercel.app/api/pin/?username=thenocturnaldevgypsy-io&repo=ama-ask-me-anything&theme=transparent&hide_border=true" /></a>
+
 ↦ :octocat: : Full-time Technical Project Manager, Freelance Technical Writer and Old-school Full-Stack Developer. I was also an Academic Head of School of Computer Studies & Assistant Professor, but `on-hiatus`.
 
 ↦ 🧪 : Exploring AI Text to Image Prompts, Learning more about Crypto and NFTs, Catching up with Frontend and Backend technologies ATM (and some [Code Challenges](https://github.com/thenocturnaldevgypsy-io/code_challenges) too).
 
-↦ 💬 : Ask me anything you want, in [my AMA repo](https://github.com/thenocturnaldevgypsy-io/ama-ask-me-anything).
+<!-- ↦ 💬 : Ask me anything you want, in [my AMA repo](https://github.com/thenocturnaldevgypsy-io/ama-ask-me-anything). -->
 
 ## ![SECTION Fun Fact!](https://custom-icon-badges.demolab.com/badge/-Fun%20Fact!-24292e?logo=paintbrush&logoColor=white&labelColor=00416a)
 ↦ 🎨 : I do traditional Pen and Ink + Watercolour Illustrations too!
