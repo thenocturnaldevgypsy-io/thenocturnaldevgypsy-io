@@ -27,10 +27,12 @@
 [![X](https://img.shields.io/badge/-/nocturnalgypsy__-%2300416a?logo=x&logoColor=white&labelColor=%2300416a&color=%2324292e)](https://x.com/nocturnalgypsy_)
 [![Email](https://custom-icon-badges.demolab.com/badge/-i.am.abby@thenocturnaldevgypsy.io-24292e?logo=mail&logoColor=white&labelColor=00416a)](mailto:i.am.abby@thenocturnaldevgypsy.io)
 
-## ![SECTION Support me!](https://custom-icon-badges.demolab.com/badge/-Support%20me!%20Aside%20🌟,%20👁️,%20🔱%20and%20❤️%20some%20of%20the%20repos!-24292e?logo=heart-fill&logoColor=white&labelColor=00416a)
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-/thenocturnaldevgypsy-%2300416a?logo=kofi&logoColor=white&labelColor=%2300416a&color=%2324292e)](https://ko-fi.com/thenocturnaldevgypsy)
-[![Uncut NFTs](https://custom-icon-badges.demolab.com/badge/Uncut%20NFTs%20(WAXp%20&%20Polygon)-/user/4296077072-24292e?logo=file-binary&logoColor=white&labelColor=00416a)](https://uncut.network/user/4296077072)
+## ![SECTION Support me!](https://custom-icon-badges.demolab.com/badge/-Support%20me!-24292e?logo=heart-fill&logoColor=white&labelColor=00416a)
+Aside🌟, 👁️, 🔱 and ❤️ some of the repos! Hire me, buy some of my NFTs or just simply buy me a ☕ at **Ko-Fi**.
+
 [![Upwork](https://img.shields.io/badge/Upwork-/freelancers/~0135fa830786a3f536-%2300416a?logo=upwork&logoColor=white&labelColor=%2300416a&color=%2324292e)](https://www.upwork.com/freelancers/~0135fa830786a3f536?s=1484275220996608000)
+[![Uncut NFTs](https://custom-icon-badges.demolab.com/badge/Uncut%20NFTs%20(WAXp%20&%20Polygon)-/user/4296077072-24292e?logo=file-binary&logoColor=white&labelColor=00416a)](https://uncut.network/user/4296077072)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-/thenocturnaldevgypsy-%2300416a?logo=kofi&logoColor=white&labelColor=%2300416a&color=%2324292e)](https://ko-fi.com/thenocturnaldevgypsy)
 
 ## ![SECTION My Tech Stack](https://custom-icon-badges.demolab.com/badge/-My%20Tech%20Stack-24292e?logo=cpu&logoColor=white&labelColor=00416a)
 ![Windows](https://custom-icon-badges.demolab.com/badge/-Windows-24292e?logo=windows11&logoColor=white&labelColor=00416a)
