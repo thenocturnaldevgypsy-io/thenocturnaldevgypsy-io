@@ -1,6 +1,6 @@
 ## <img src="md_assets/meow_wave_peak.png" height="30"/> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&weight=500&size=19&letterSpacing=3&duration=6000&pause=3000&vCenter=true&width=490&height=25&lines=Ohayo++%2C+I'm+Abby+(%40TheNocturnalDevGypsy+since+2002))](https://git.io/typing-svg) 
 
-<a href="https://github.com/thenocturnaldevgypsy-io/ama-ask-me-anything"><img align="right" valign="top" width="380" src="https://github-stats-iota-henna.vercel.app/api/pin/?username=thenocturnaldevgypsy-io&repo=ama-ask-me-anything&theme=transparent&hide_border=true" /></a>
+<a href="https://github.com/thenocturnaldevgypsy-io/ama-ask-me-anything"><img align="left" valign="top" width="380" src="https://github-stats-iota-henna.vercel.app/api/pin/?username=thenocturnaldevgypsy-io&repo=ama-ask-me-anything&theme=transparent&hide_border=true" /></a>
 
 ↦ :octocat: : Full-time Technical Project Manager, Freelance Technical Writer and Old-school Full-Stack Developer. I was also an Academic Head of School of Computer Studies & Assistant Professor, but `on-hiatus`.
 
@@ -66,9 +66,9 @@ Aside🌟, 👁️, 🔱 and ❤️ some of the repos! Hire me, buy some of my N
 ![Photoshop](https://img.shields.io/badge/-Photoshop-24292e?logo=adobephotoshop&logoColor=white&labelColor=00416a)
 ![ChatGPT](https://img.shields.io/badge/-ChatGPT-24292e?logo=openai&logoColor=white&labelColor=00416a)
 
-## ![SECTION My Active Public Repos](https://custom-icon-badges.demolab.com/badge/-My%20Active%20Public%20Repos-24292e?logo=repo&logoColor=white&labelColor=00416a)
+<!-- ## ![SECTION My Active Public Repos](https://custom-icon-badges.demolab.com/badge/-My%20Active%20Public%20Repos-24292e?logo=repo&logoColor=white&labelColor=00416a)
 
-<a href="https://github.com/thenocturnaldevgypsy-io/ama-ask-me-anything"><img align="center" src="https://github-stats-iota-henna.vercel.app/api/pin/?username=thenocturnaldevgypsy-io&repo=ama-ask-me-anything&theme=transparent&hide_border=true" /></a>
+<a href="https://github.com/thenocturnaldevgypsy-io/ama-ask-me-anything"><img align="center" src="https://github-stats-iota-henna.vercel.app/api/pin/?username=thenocturnaldevgypsy-io&repo=ama-ask-me-anything&theme=transparent&hide_border=true" /></a> -->
 
 ## ![SECTION My Github & Activity Stats](https://custom-icon-badges.demolab.com/badge/-My%20Github%20&%20Activity%20Stats-24292e?logo=activity&logoSource=feather&logoColor=white&labelColor=00416a)
 <img width="420" valign="top" align="center" src="https://github-stats-iota-henna.vercel.app/api?username=thenocturnaldevgypsy-io&rank_icon=github&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" /><img valign="top" align="center" src="https://streak-stats.demolab.com?user=thenocturnaldevgypsy-io&theme=transparent&hide_border=true&card_width=380&card_height=&type=png" alt="GitHub Streak" />
