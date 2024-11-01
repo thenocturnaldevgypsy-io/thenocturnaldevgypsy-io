@@ -4,7 +4,7 @@
 
 ↦ :octocat: : Full-time Technical Project Manager, Freelance Technical Writer and Old-school Full-Stack Developer. I was also an Academic Head of School of Computer Studies & Assistant Professor, but `on-hiatus`.
 
-↦ 🧪 : Exploring AI Text to Image Prompts, Learning more about Crypto and NFTs, Catching up with Frontend and Backend technologies ATM (and some [Code Challenges](https://github.com/thenocturnaldevgypsy-io/code_challenges) too). And currently loving GitHub Projects to keep me organized.
+↦ 🧪 : Exploring AI Text to Image Prompts, Learning more about Crypto and NFTs, Catching up with Frontend and Backend technologies ATM (and some [Code Challenges](https://github.com/thenocturnaldevgypsy-io/code_challenges) too). And currently loving GitHub [Projects](https://github.com/thenocturnaldevgypsy-io?tab=projects) to keep me organized.
 
 <!-- ↦ 💬 : Ask me anything you want, in [my AMA repo](https://github.com/thenocturnaldevgypsy-io/ama-ask-me-anything). -->
 
