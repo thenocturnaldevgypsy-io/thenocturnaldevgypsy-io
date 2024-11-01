@@ -30,7 +30,7 @@
 [![Email](https://custom-icon-badges.demolab.com/badge/-i.am.abby@thenocturnaldevgypsy.io-24292e?logo=mail&logoColor=white&labelColor=00416a)](mailto:i.am.abby@thenocturnaldevgypsy.io)
 
 ## ![SECTION Support me!](https://custom-icon-badges.demolab.com/badge/-Support%20me!-2471AE?logo=heart-fill&logoColor=white&labelColor=2471AE)
-Aside🌟, 👁️, 🔱 and ❤️ some of the repos! Hire me, buy some of my NFTs or just simply buy me a ☕ at **Ko-Fi**.
+Aside🌟, 👁️, 🔱 and ❤️ some of the repos - hire me, buy some of my NFTs or (maybe) just simply buy me a ☕ at **Ko-Fi**? 
 
 [![Upwork](https://img.shields.io/badge/Upwork-/freelancers/~0135fa830786a3f536-%2300416a?logo=upwork&logoColor=white&labelColor=%2300416a&color=%2324292e)](https://www.upwork.com/freelancers/~0135fa830786a3f536?s=1484275220996608000)
 [![Uncut NFTs](https://custom-icon-badges.demolab.com/badge/Uncut%20NFTs%20(WAXp%20&%20Polygon)-/user/4296077072-24292e?logo=file-binary&logoColor=white&labelColor=00416a)](https://uncut.network/user/4296077072)
