@@ -87,7 +87,7 @@ Aside🌟, 👁️, 🔱 and ❤️ some of the repos - hire me, buy some of my 
 
 <!-- = start option 2 -->
 
-<img align="center" width="545" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thenocturnaldevgypsy-io&theme=transparent" alt="TheNocturnalDevGypsy's GitHub Contribution"/><img width="305" valign="top" align="center" src="https://github-stats-iota-henna.vercel.app/api?username=thenocturnaldevgypsy-io&rank_icon=github&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" />
+<img align="center" width="545" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thenocturnaldevgypsy-io&theme=transparent" alt="TheNocturnalDevGypsy's GitHub Contribution"/><img width="300" valign="top" align="center" src="https://github-stats-iota-henna.vercel.app/api?username=thenocturnaldevgypsy-io&rank_icon=github&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" />
 
 
 <img valign="top" align="center" src="https://streak-stats.demolab.com?user=thenocturnaldevgypsy-io&theme=transparent&hide_border=true&card_width=380&card_height=&type=png" alt="GitHub Streak" />
