@@ -4,7 +4,7 @@
 
 ↦ :octocat: : Full-time Technical Project Manager, Freelance Technical Writer and Old-school Full-Stack Developer. I was also an Academic Head of School of Computer Studies & Assistant Professor, but `on-hiatus`.
 
-↦ 🧪 : Exploring AI Text to Image Prompts, Learning more about Crypto and NFTs, Catching up with Frontend and Backend technologies ATM (and some [Code Challenges](https://github.com/thenocturnaldevgypsy-io/code_challenges) too).
+↦ 🧪 : Exploring AI Text to Image Prompts, Learning more about Crypto and NFTs, Catching up with Frontend and Backend technologies ATM (and some [Code Challenges](https://github.com/thenocturnaldevgypsy-io/code_challenges) too). And currently loving GitHub Projects to keep me organized.
 
 <!-- ↦ 💬 : Ask me anything you want, in [my AMA repo](https://github.com/thenocturnaldevgypsy-io/ama-ask-me-anything). -->
 
@@ -16,7 +16,7 @@
 
 ## ![SECTION Not so Fun Fact!](https://custom-icon-badges.demolab.com/badge/-Not%20so%20Fun%20Fact!-2471AE?logo=thumbsdown&logoColor=white&labelColor=2471AE)
 
-↦ 🔥 : My 10 years 11 days old `@thenocturnaldevgypsy` GitHub account since October 8, 2014 got flagged for no reason as of October 18, 2024. I ended up recreating all my public and private repos at `@thenocturnaldevgypsy-io`.
+↦ 🔥 : My 10 years 11 days old `@thenocturnaldevgypsy` GitHub account since October 8, 2014 got flagged for no reason as of October 18, 2024. I ended up recreating all my public and private repos at `@thenocturnaldevgypsy-io` to continue working, and still waiting for GitHub Support to check my ticket [#3055761](https://support.github.com/ticket/personal/0/3055761)
 
 ## ![SECTION Me else(web)where...](https://custom-icon-badges.demolab.com/badge/-Me%20else%28web%29where...-2471AE?logo=rocket&logoColor=white&labelColor=2471AE)
 
