@@ -57,6 +57,8 @@ Aside🌟, 👁️, 🔱 and ❤️ some of the repos! Hire me, buy some of my N
 ![SQL](https://custom-icon-badges.demolab.com/badge/-SQL-00416a?logo=database&logoColor=white&labelColor=00416a)
 ![mySQL](https://img.shields.io/badge/-mySQL-00416a?logo=mySQL&logoColor=white&labelColor=00416a)
 ![GitHub](https://img.shields.io/badge/-GitHub-00416a?logo=github&logoColor=white&labelColor=00416a)
+![GitHub Projects](https://img.shields.io/badge/-GitHub%20Projects-00416a?logo=github&logoColor=white&labelColor=00416a)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-00416a?logo=github&logoColor=white&labelColor=00416a)
 ![Jira](https://img.shields.io/badge/-Jira-00416a?logo=jira&logoColor=white&labelColor=00416a)
 ![Asana](https://img.shields.io/badge/-Asana-00416a?logo=asana&logoColor=white&labelColor=00416a)
 ![Markdown](https://img.shields.io/badge/-Markdown-00416a?logo=markdown&logoColor=white&labelColor=00416a)
