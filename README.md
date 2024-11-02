@@ -42,41 +42,6 @@ Aside🌟, 👁️, 🔱 and ❤️ some of the repos - hire me, buy some of my 
 | Graphics, Design, AI | ![Canva](https://img.shields.io/badge/-Canva-00416a?logo=Canva&logoColor=white&labelColor=00416a) ![Figma](https://img.shields.io/badge/-Figma-00416a?logo=Figma&logoColor=white&labelColor=00416a) ![Photoshop](https://img.shields.io/badge/-Photoshop-00416a?logo=adobephotoshop&logoColor=white&labelColor=00416a) ![Bing](https://custom-icon-badges.demolab.com/badge/-Bing%20Image%20Creator-00416a?logo=windows11&logoColor=white&labelColor=00416a) |
 | PM, Writing, AI | ![Jira](https://img.shields.io/badge/-Jira-00416a?logo=jira&logoColor=white&labelColor=00416a) ![Asana](https://img.shields.io/badge/-Asana-00416a?logo=asana&logoColor=white&labelColor=00416a) ![GitHub Projects](https://custom-icon-badges.demolab.com/badge/-GitHub%20Projects-00416a?logo=pivot-column&logoColor=white&labelColor=00416a) ![Markdown](https://img.shields.io/badge/-Markdown-00416a?logo=markdown&logoColor=white&labelColor=00416a) ![Notion](https://img.shields.io/badge/-Notion-00416a?logo=notion&logoColor=white&labelColor=00416a) ![Confluence](https://img.shields.io/badge/-Confluence-00416a?logo=confluence&logoColor=white&labelColor=00416a) ![ChatGPT](https://img.shields.io/badge/-ChatGPT-00416a?logo=openai&logoColor=white&labelColor=00416a) |
 
-
-<!-- ![Windows](https://custom-icon-badges.demolab.com/badge/-Windows-00416a?logo=windows11&logoColor=white&labelColor=00416a)
-![macOS](https://img.shields.io/badge/-macOS-00416a?logo=apple&logoColor=white&labelColor=00416a)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-00416a?logo=ubuntu&logoColor=white&labelColor=00416a)
-![Dynamics 365](https://custom-icon-badges.demolab.com/badge/-Dynamics%20365-00416a?logo=windows11&logoColor=white&labelColor=00416a)
-![Vercel](https://img.shields.io/badge/-Vercel-00416a?logo=vercel&logoColor=white&labelColor=00416a)
-![AWS](https://img.shields.io/badge/-AWS-00416a?logo=amazon-web-services&logoColor=white&labelColor=00416a)
-![AlibabaCloud](https://img.shields.io/badge/-AlibabaCloud-00416a?logo=alibaba-cloud&logoColor=white&labelColor=00416a)
-![Firefox](https://img.shields.io/badge/-Firefox-00416a?logo=firefox&logoColor=white&labelColor=00416a)
-![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/-Visual%20Studio%20Code-00416a?logo=vsc&logoColor=white&labelColor=00416a)
-![Dreamweaver](https://img.shields.io/badge/-Dreamweaver-00416a?logo=adobedreamweaver&logoColor=white&labelColor=00416a)
-![Java](https://img.shields.io/badge/-Java-00416a?logo=openjdk&logoColor=white&labelColor=00416a)
-![HTML](https://img.shields.io/badge/-HTML-00416a?logo=html5&logoColor=white&labelColor=00416a)
-![CSS](https://img.shields.io/badge/-CSS-00416a?logo=css3&logoColor=white&labelColor=00416a)
-![JavaScript](https://img.shields.io/badge/-JavaScript-00416a?logo=JavaScript&logoColor=white&labelColor=00416a)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-00416a?logo=Bootstrap&logoColor=white&labelColor=00416a)
-![Chart.js](https://img.shields.io/badge/-Chart.js-00416a?logo=chartdotjs&logoColor=white&labelColor=00416a)
-![PHP](https://img.shields.io/badge/-PHP-00416a?logo=php&logoColor=white&labelColor=00416a)
-![SQL](https://custom-icon-badges.demolab.com/badge/-SQL-00416a?logo=database&logoColor=white&labelColor=00416a)
-![mySQL](https://img.shields.io/badge/-mySQL-00416a?logo=mySQL&logoColor=white&labelColor=00416a)
-![MSSQL Server](https://custom-icon-badges.demolab.com/badge/-MSSQL%20Server-00416a?logo=database&logoColor=white&labelColor=00416a)
-![Git](https://img.shields.io/badge/-Git-00416a?logo=git&logoColor=white&labelColor=00416a)
-![GitHub](https://img.shields.io/badge/-GitHub-00416a?logo=github&logoColor=white&labelColor=00416a)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-00416a?logo=github&logoColor=white&labelColor=00416a)
-![Jira](https://img.shields.io/badge/-Jira-00416a?logo=jira&logoColor=white&labelColor=00416a)
-![Asana](https://img.shields.io/badge/-Asana-00416a?logo=asana&logoColor=white&labelColor=00416a)
-![GitHub Projects](https://img.shields.io/badge/-GitHub%20Projects-00416a?logo=github&logoColor=white&labelColor=00416a)
-![Markdown](https://img.shields.io/badge/-Markdown-00416a?logo=markdown&logoColor=white&labelColor=00416a)
-![Notion](https://img.shields.io/badge/-Notion-00416a?logo=notion&logoColor=white&labelColor=00416a)
-![Confluence](https://img.shields.io/badge/-Confluence-00416a?logo=confluence&logoColor=white&labelColor=00416a)
-![Canva](https://img.shields.io/badge/-Canva-00416a?logo=Canva&logoColor=white&labelColor=00416a)
-![Figma](https://img.shields.io/badge/-Figma-00416a?logo=Figma&logoColor=white&labelColor=00416a)
-![Photoshop](https://img.shields.io/badge/-Photoshop-00416a?logo=adobephotoshop&logoColor=white&labelColor=00416a)
-![ChatGPT](https://img.shields.io/badge/-ChatGPT-00416a?logo=openai&logoColor=white&labelColor=00416a) -->
-
 <!-- ## ![SECTION My Active Public Repos](https://custom-icon-badges.demolab.com/badge/-My%20Active%20Public%20Repos-24292e?logo=repo&logoColor=white&labelColor=00416a)
 
 <a href="https://github.com/thenocturnaldevgypsy-io/ama-ask-me-anything"><img align="center" src="https://github-stats-iota-henna.vercel.app/api/pin/?username=thenocturnaldevgypsy-io&repo=ama-ask-me-anything&theme=transparent&hide_border=true" /></a> -->
@@ -101,15 +66,7 @@ Aside🌟, 👁️, 🔱 and ❤️ some of the repos - hire me, buy some of my 
 
 <img width="480" valign="top" align="center" src="https://github-stats-iota-henna.vercel.app/api/wakatime?username=thenocturnaldevgypsy&layout=compact&theme=transparent&hide_border=true&hide=other" alt="TheNocturnalDevGypsy's WakaTime stats"><img width="275" valign="top" align="center" src="https://github-stats-iota-henna.vercel.app/api/top-langs/?username=thenocturnaldevgypsy-io&layout=compact&theme=transparent&hide_border=true&langs_count=100" /> 
 
-
 <!-- = end option 2 -->
-
-<!-- = start option 3 
-
-<img width="420" valign="top" align="center" src="https://github-stats-iota-henna.vercel.app/api?username=thenocturnaldevgypsy-io&rank_icon=github&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" /><img valign="top" align="center" src="https://streak-stats.demolab.com?user=thenocturnaldevgypsy-io&theme=transparent&hide_border=true&card_width=380&card_height=&type=png" alt="GitHub Streak" />
-<img width="470" valign="top" align="center" src="https://github-stats-iota-henna.vercel.app/api/wakatime?username=thenocturnaldevgypsy&layout=compact&theme=transparent&hide_border=true&hide=other" alt="TheNocturnalDevGypsy's WakaTime stats"><img width="275" valign="top" align="center" src="https://github-stats-iota-henna.vercel.app/api/top-langs/?username=thenocturnaldevgypsy-io&layout=compact&theme=transparent&hide_border=true&langs_count=100" /> 
-
-= end option 3 -->
 
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
