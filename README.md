@@ -48,7 +48,7 @@ Aside🌟, 👁️, 🔱 and ❤️ some of the repos - hire me, buy some of my 
 
 ## ![SECTION My Github & Activity Stats](https://custom-icon-badges.demolab.com/badge/-My%20Github%20&%20Activity%20Stats-2471AE?logo=activity&logoSource=feather&logoColor=white&labelColor=2471AE)
 
-<!-- = start option 1 -->
+<!-- = start option 1 
 
 <img align="center" width="570" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thenocturnaldevgypsy-io&theme=transparent" alt="TheNocturnalDevGypsy's GitHub Contribution"/><img align="center" width="275" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thenocturnaldevgypsy-io&theme=transparent" alt="TheNocturnalDevGypsy's GitHub Stats">
 
