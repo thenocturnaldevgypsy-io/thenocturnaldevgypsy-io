@@ -7,7 +7,7 @@
 ↦ 🧪 : Exploring AI Text to Image Prompts, Learning more about Crypto and NFTs, Catching up with Frontend and Backend technologies ATM (and some [Code Challenges](https://github.com/thenocturnaldevgypsy-io/code_challenges) too). Currently loving GitHub [Projects](https://github.com/thenocturnaldevgypsy-io?tab=projects) to keep me organized.
 
 ## ![SECTION Fun Fact!](https://custom-icon-badges.demolab.com/badge/-Fun%20Fact!-2471AE?logo=paintbrush&logoColor=white&labelColor=2471AE)
-↦ 🎨 : I do traditional Pen and Ink + Watercolour Illustrations too!
+↦ 🎨 : I do traditional Pen and Ink + Watercolour Illustrations too! 
 
 [![Website](https://custom-icon-badges.demolab.com/badge/-www.yaindigo.art-24292e?logo=globe&logoColor=white&labelColor=00416a)](https://www.yaindigo.art)
 [![Beacons.ai](https://custom-icon-badges.demolab.com/badge/-beacons.ai/yaindigo.art-24292e?logo=ai-model&logoColor=white&labelColor=00416a)](https://beacons.ai/yaindigo.art)
