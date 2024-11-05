@@ -50,23 +50,19 @@ Aside🌟, 👁️, 🔱 and ❤️ some of the repos - hire me, buy some of my 
 
 <!-- = start option 1 
 
-<img align="center" width="570" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thenocturnaldevgypsy-io&theme=transparent" alt="TheNocturnalDevGypsy's GitHub Contribution"/><img align="center" width="275" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thenocturnaldevgypsy-io&theme=transparent" alt="TheNocturnalDevGypsy's GitHub Stats">
+<img align="center" width="545" src="https://raw.githubusercontent.com/thenocturnaldevgypsy-io/thenocturnaldevgypsy-io/master/profile-summary-card-output/transparent/0-profile-details.svg" alt="TheNocturnalDevGypsy's GitHub Contribution"/><img valign="top" width="300" align="center" src="https://streak-stats.demolab.com?user=thenocturnaldevgypsy-io&theme=transparent&hide_border=true&card_width=380&card_height=&type=png" alt="GitHub Streak" />
 
-<img align="center" width="275" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thenocturnaldevgypsy-io&theme=transparent"/><img align="center" width="275" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thenocturnaldevgypsy-io&theme=transparent"/><img align="center" width="275" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thenocturnaldevgypsy-io&theme=transparent&utcOffset=7"/>
+<img width="355" valign="top" align="center" src="https://github-stats-iota-henna.vercel.app/api?username=thenocturnaldevgypsy-io&rank_icon=github&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" /><img align="center" width="235" src="https://raw.githubusercontent.com/thenocturnaldevgypsy-io/thenocturnaldevgypsy-io/master/profile-summary-card-output/transparent/2-most-commit-language.svg"/><img align="center" width="235" src="https://raw.githubusercontent.com/thenocturnaldevgypsy-io/thenocturnaldevgypsy-io/master/profile-summary-card-output/transparent/4-productive-time.svg"/>
 
-<img width="470" valign="top" align="center" src="https://github-stats-iota-henna.vercel.app/api/wakatime?username=thenocturnaldevgypsy&layout=compact&theme=transparent&hide_border=true&hide=other" alt="TheNocturnalDevGypsy's WakaTime stats"><img valign="top" align="center" width="375" src="https://streak-stats.demolab.com?user=thenocturnaldevgypsy-io&theme=transparent&hide_border=true&card_width=380&card_height=&type=png" alt="GitHub Streak" />
+<img width="480" valign="top" align="center" src="https://github-stats-iota-henna.vercel.app/api/wakatime?username=thenocturnaldevgypsy&layout=compact&theme=transparent&hide_border=true&hide=other" alt="TheNocturnalDevGypsy's WakaTime stats"><img width="275" valign="top" align="center" src="https://github-stats-iota-henna.vercel.app/api/top-langs/?username=thenocturnaldevgypsy-io&layout=compact&theme=transparent&hide_border=true&langs_count=100" />
 
-<!-- end option 1 -->
+end option 1 -->
 
-<!-- = start option 2 -->
+<img align="center" width="565" src="https://raw.githubusercontent.com/thenocturnaldevgypsy-io/thenocturnaldevgypsy-io/master/profile-summary-card-output/transparent/0-profile-details.svg" alt="TheNocturnalDevGypsy's GitHub Contribution"/><img valign="top" width="280" align="center" src="https://raw.githubusercontent.com/thenocturnaldevgypsy-io/thenocturnaldevgypsy-io/master/profile-summary-card-output/transparent/3-stats.svg" alt="GitHub Streak" />
 
-<img align="center" width="545" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thenocturnaldevgypsy-io&theme=transparent" alt="TheNocturnalDevGypsy's GitHub Contribution"/><img valign="top" width="300" align="center" src="https://streak-stats.demolab.com?user=thenocturnaldevgypsy-io&theme=transparent&hide_border=true&card_width=380&card_height=&type=png" alt="GitHub Streak" />
+<img align="center" width="275" src="https://raw.githubusercontent.com/thenocturnaldevgypsy-io/thenocturnaldevgypsy-io/master/profile-summary-card-output/transparent/1-repos-per-language.svg"/><img align="center" width="275" src="https://raw.githubusercontent.com/thenocturnaldevgypsy-io/thenocturnaldevgypsy-io/master/profile-summary-card-output/transparent/2-most-commit-language.svg"/><img align="center" width="275" src="https://raw.githubusercontent.com/thenocturnaldevgypsy-io/thenocturnaldevgypsy-io/master/profile-summary-card-output/transparent/4-productive-time.svg"/>
 
-<img width="355" valign="top" align="center" src="https://github-stats-iota-henna.vercel.app/api?username=thenocturnaldevgypsy-io&rank_icon=github&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" /><img align="center" width="235" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thenocturnaldevgypsy-io&theme=transparent"/><img align="center" width="235" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thenocturnaldevgypsy-io&theme=transparent&utcOffset=7"/>
-
-<img width="480" valign="top" align="center" src="https://github-stats-iota-henna.vercel.app/api/wakatime?username=thenocturnaldevgypsy&layout=compact&theme=transparent&hide_border=true&hide=other" alt="TheNocturnalDevGypsy's WakaTime stats"><img width="275" valign="top" align="center" src="https://github-stats-iota-henna.vercel.app/api/top-langs/?username=thenocturnaldevgypsy-io&layout=compact&theme=transparent&hide_border=true&langs_count=100" /> 
-
-<!-- = end option 2 -->
+<img width="490" valign="top" align="center" src="https://github-stats-iota-henna.vercel.app/api/wakatime?username=thenocturnaldevgypsy&layout=compact&theme=transparent&hide_border=true&hide=other" alt="TheNocturnalDevGypsy's WakaTime stats"><img valign="top" align="center" width="355" src="https://streak-stats.demolab.com?user=thenocturnaldevgypsy-io&theme=transparent&hide_border=true&card_width=380&card_height=&type=png" alt="GitHub Streak" />
 
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
