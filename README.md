@@ -2,6 +2,9 @@
 
 <a href="https://github.com/thenocturnaldevgypsy-io/ama-ask-me-anything"><img align="left" valign="top" width="380" src="https://github-stats-iota-henna.vercel.app/api/pin/?username=thenocturnaldevgypsy-io&repo=ama-ask-me-anything&theme=transparent&hide_border=true" /></a>
 
+![STATUS: #openforwork | AVAILABLE](https://custom-icon-badges.demolab.com/badge/STATUS-%23openforwork%20%7C%20AVAILABLE-1A1A1A?logo=hubot&logoColor=white&labelColor=2471AE&color=1A1A1A)
+
+
 ↦ :octocat: : Full-time Technical Project Manager, Freelance Technical Writer and Old-school Full-Stack Developer. I was also an Academic Head of School of Computer Studies & Assistant Professor, but `on-hiatus`.
 
 ↦ 🧪 : Exploring AI Text to Image Prompts, Learning more about Crypto and NFTs, Catching up with Frontend and Backend technologies ATM (and some [Code Challenges](https://github.com/thenocturnaldevgypsy-io/code_challenges) too). Currently loving GitHub [Projects](https://github.com/thenocturnaldevgypsy-io?tab=projects) to keep me organized.
