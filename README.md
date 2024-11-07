@@ -1,6 +1,10 @@
 ## <img src="md_assets/meow_groovy.gif" height="30"/> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&weight=500&size=19&letterSpacing=3&duration=6000&pause=3000&vCenter=true&width=490&height=25&lines=Ohayo++%2C+I'm+Abby+(%40TheNocturnalDevGypsy+since+2002))](https://git.io/typing-svg) 
 
-![STATUS: #openforwork | AVAILABLE](https://custom-icon-badges.demolab.com/badge/STATUS-%23openforwork%20%7C%20AVAILABLE-1A1A1A?logo=hubot&logoColor=white&labelColor=2471AE&color=1A1A1A)
+<br>
+
+<img align="left" valign="top" src="https://custom-icon-badges.demolab.com/badge/STATUS-%23openforwork%20%7C%20AVAILABLE-1A1A1A?logo=hubot&logoColor=white&labelColor=2471AE&color=1A1A1A" />
+
+<br>
 
 <a href="https://github.com/thenocturnaldevgypsy-io/ama-ask-me-anything"><img align="left" valign="top" width="380" src="https://github-stats-iota-henna.vercel.app/api/pin/?username=thenocturnaldevgypsy-io&repo=ama-ask-me-anything&theme=transparent&hide_border=true" /></a>
 
