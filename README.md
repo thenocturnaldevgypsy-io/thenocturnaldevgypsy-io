@@ -68,7 +68,7 @@ end option 1 -->
 
 <img align="center" width="275" src="https://raw.githubusercontent.com/thenocturnaldevgypsy-io/thenocturnaldevgypsy-io/master/profile-summary-card-output/transparent/1-repos-per-language.svg"/><img align="center" width="275" src="https://raw.githubusercontent.com/thenocturnaldevgypsy-io/thenocturnaldevgypsy-io/master/profile-summary-card-output/transparent/2-most-commit-language.svg"/><img align="center" width="275" src="https://raw.githubusercontent.com/thenocturnaldevgypsy-io/thenocturnaldevgypsy-io/master/profile-summary-card-output/transparent/4-productive-time.svg"/>
 
-<img width="490" valign="top" align="center" src="https://github-stats-iota-henna.vercel.app/api/wakatime?username=thenocturnaldevgypsy&layout=compact&theme=transparent&hide_border=true&hide=other" alt="TheNocturnalDevGypsy's WakaTime stats"><img valign="top" align="center" width="355" src="https://github-readme-streak-stats-three-khaki.vercel.app?user=thenocturnaldevgypsy-io&theme=transparent&hide_border=true" alt="GitHub Streak" />
+<img width="480" valign="top" align="center" src="https://github-stats-iota-henna.vercel.app/api/wakatime?username=thenocturnaldevgypsy&layout=compact&theme=transparent&hide_border=true&hide=other" alt="TheNocturnalDevGypsy's WakaTime stats"><img valign="top" align="center" width="360" src="https://github-readme-streak-stats-three-khaki.vercel.app?user=thenocturnaldevgypsy-io&theme=transparent&hide_border=true" alt="GitHub Streak" />
 
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
