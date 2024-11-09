@@ -8,9 +8,9 @@
 
 <br>
 
-↦ :octocat: : Technical Project and Operation Manager, Product Owner and Manager, Technical Writer and Old-school Full-Stack Developer. I'm also an Academic Head of School of Computer Studies & Assistant Professor, but `on-hiatus`.
+↦ :octocat: : Technical Project & Operation Manager, Product Owner & Manager, Technical Writer & Old-school Full-Stack Developer. I'm also an Academic Head of School of Computer Studies & Assistant Professor, but `on-hiatus`.
 
-↦ 🧪 : Exploring AI Text to Image Prompts, Learning more about Crypto and NFTs, Catching up with Frontend and Backend technologies ATM (and some [Code Challenges](https://github.com/thenocturnaldevgypsy-io/code_challenges) too). Currently loving GitHub [Projects](https://github.com/thenocturnaldevgypsy-io?tab=projects) too.
+↦ 🧪 : Exploring AI Text to Image Prompts, Learning more about Crypto & NFTs, Catching up with Frontend & Backend technologies ATM (& some [Code Challenges](https://github.com/thenocturnaldevgypsy-io/code_challenges) too). Currently loving GitHub [Projects](https://github.com/thenocturnaldevgypsy-io?tab=projects) too.
 
 ## ![SECTION Fun Fact!](https://custom-icon-badges.demolab.com/badge/-Fun%20Fact!-2471AE?logo=paintbrush&logoColor=white&labelColor=2471AE)
 ↦ 🎨 : I do traditional Pen and Ink + Watercolour Illustrations too! 
@@ -20,7 +20,7 @@
 
 ## ![SECTION Not so Fun Fact!](https://custom-icon-badges.demolab.com/badge/-Not%20so%20Fun%20Fact!-2471AE?logo=thumbsdown&logoColor=white&labelColor=2471AE)
 
-↦ 🔥 : My 10 years 11 days old `@thenocturnaldevgypsy` GitHub account since October 8, 2014 got flagged for no reason as of October 18, 2024. I ended up recreating all my public and private repos at `@thenocturnaldevgypsy-io` to continue working, and still waiting for GitHub Support to check my ticket [#3055761](https://support.github.com/ticket/personal/0/3055761) :smiling_face_with_tear:
+↦ 🔥 : My 10 years 11 days old `@thenocturnaldevgypsy` GitHub account since October 8, 2014 got flagged for no reason as of October 18, 2024. I ended up recreating all my public & private repos at `@thenocturnaldevgypsy-io` to continue working, and still waiting for GitHub Support to check my ticket [#3055761](https://support.github.com/ticket/personal/0/3055761) :smiling_face_with_tear:
 
 ## ![SECTION Me else(web)where...](https://custom-icon-badges.demolab.com/badge/-Me%20else%28web%29where...-2471AE?logo=rocket&logoColor=white&labelColor=2471AE)
 
@@ -34,7 +34,7 @@
 [![Email](https://custom-icon-badges.demolab.com/badge/-i.am.abby@thenocturnaldevgypsy.io-24292e?logo=mail&logoColor=white&labelColor=00416a)](mailto:i.am.abby@thenocturnaldevgypsy.io)
 
 ## ![SECTION Support me!](https://custom-icon-badges.demolab.com/badge/-Support%20me!-2471AE?logo=heart-fill&logoColor=white&labelColor=2471AE)
-Aside🌟, 👁️, 🔱 and ❤️ some of the repos - hire me, buy some of my NFTs or (maybe) just simply buy me a ☕ at **Ko-Fi**? :smiling_face_with_tear:
+Aside🌟, 👁️, 🔱 & ❤️ some of the repos - hire me, buy some of my NFTs or (maybe) just simply buy me a ☕ at **Ko-Fi**? :smiling_face_with_tear:
 
 [![Upwork](https://img.shields.io/badge/Upwork-/freelancers/~0135fa830786a3f536-%2300416a?logo=upwork&logoColor=white&labelColor=%2300416a&color=%2324292e)](https://www.upwork.com/freelancers/~0135fa830786a3f536?s=1484275220996608000)
 [![Uncut NFTs](https://custom-icon-badges.demolab.com/badge/Uncut%20NFTs%20(WAXp%20&%20Polygon)-/user/4296077072-24292e?logo=file-binary&logoColor=white&labelColor=00416a)](https://uncut.network/user/4296077072)
