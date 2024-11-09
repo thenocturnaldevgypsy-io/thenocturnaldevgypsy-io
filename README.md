@@ -4,7 +4,7 @@
 
 <br>
 
-<img align="left" valign="top" src="https://custom-icon-badges.demolab.com/badge/STATUS-%23OPENFORWORK-1A1A1A?logo=hubot&logoColor=white&labelColor=2471AE&color=1A1A1A" />
+<img align="left" valign="top" src="https://custom-icon-badges.demolab.com/badge/STATUS-%23OPENFORWORK%20|%20AVAILABLE-1A1A1A?logo=hubot&logoColor=white&labelColor=2471AE&color=1A1A1A" />
 
 <br>
 
