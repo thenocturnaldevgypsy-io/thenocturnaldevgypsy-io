@@ -2,9 +2,11 @@
 
 <a href="https://github.com/thenocturnaldevgypsy-io/ama-ask-me-anything"><img align="left" valign="top" width="380" src="https://github-stats-iota-henna.vercel.app/api/pin/?username=thenocturnaldevgypsy-io&repo=ama-ask-me-anything&theme=transparent&hide_border=true" /></a>
 
+<br>
+
 <img align="left" valign="top" src="https://custom-icon-badges.demolab.com/badge/STATUS-%23OPENFORWORK-1A1A1A?logo=hubot&logoColor=white&labelColor=2471AE&color=1A1A1A" />
 
-<br><br>
+<br>
 
 ↦ :octocat: : Technical Project Manager, Product Owner and Manager, Technical Writer and Old-school Full-Stack Developer. I'm also an Academic Head of School of Computer Studies & Assistant Professor, but `on-hiatus`.
 
