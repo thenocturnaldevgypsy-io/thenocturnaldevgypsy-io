@@ -8,7 +8,7 @@
 
 <br>
 
-↦ :octocat: : Technical Project Manager, Product Owner and Manager, Technical Writer and Old-school Full-Stack Developer. I'm also an Academic Head of School of Computer Studies & Assistant Professor, but `on-hiatus`.
+↦ :octocat: : Technical Project and Operation Manager, Product Owner and Manager, Technical Writer and Old-school Full-Stack Developer. I'm also an Academic Head of School of Computer Studies & Assistant Professor, but `on-hiatus`.
 
 ↦ 🧪 : Exploring AI Text to Image Prompts, Learning more about Crypto and NFTs, Catching up with Frontend and Backend technologies ATM (and some [Code Challenges](https://github.com/thenocturnaldevgypsy-io/code_challenges) too). Currently loving GitHub [Projects](https://github.com/thenocturnaldevgypsy-io?tab=projects) too.
 
