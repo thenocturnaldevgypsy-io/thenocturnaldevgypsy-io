@@ -10,7 +10,7 @@
 
 ↦ :octocat: : Technical Project & Operation Manager, Product Owner & Manager, Technical Writer & Old-school Full-Stack Developer. I'm also an Academic Head of School of Computer Studies & Assistant Professor, but `on-hiatus`.
 
-↦ 🧪 : Exploring AI Text to Image Prompts, Learning more about Crypto & NFTs, Catching up with Frontend & Backend technologies ATM (& some [Code Challenges](https://github.com/thenocturnaldevgypsy-io/code_challenges) too). Currently loving GitHub [Projects](https://github.com/thenocturnaldevgypsy-io?tab=projects) too.
+↦ 🧪 : Currently exploring AI Text to Image Prompts, Learning more about Crypto & NFTs, Catching up with Frontend & Backend technologies ATM (& some [Code Challenges](https://github.com/thenocturnaldevgypsy-io/code_challenges) too). Loving GitHub [Projects](https://github.com/thenocturnaldevgypsy-io?tab=projects) ATM too.
 
 ## ![SECTION Fun Fact!](https://custom-icon-badges.demolab.com/badge/-Fun%20Fact!-2471AE?logo=paintbrush&logoColor=white&labelColor=2471AE)
 ↦ 🎨 : I do traditional Pen and Ink + Watercolour Illustrations too! 
