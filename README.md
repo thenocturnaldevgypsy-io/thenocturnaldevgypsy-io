@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&weight=500&size=19&letterSpacing=3&duration=6000&pause=3000&vCenter=true&width=490&height=25&lines=Ohayo++%2C+I'm+Abby+(%40TheNocturnalDevGypsy+since+2002))](https://git.io/typing-svg) 
+## <img src="md_assets/spacecat.gif" height="35"/> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&weight=500&size=19&letterSpacing=3&duration=6000&pause=3000&vCenter=true&width=490&height=25&lines=Ohayo++%2C+I'm+Abby+(%40TheNocturnalDevGypsy+since+2002))](https://git.io/typing-svg)
 
 <a href="https://github.com/thenocturnaldevgypsy-io/ama-ask-me-anything"><img align="left" valign="top" width="380" src="https://github-stats-iota-henna.vercel.app/api/pin/?username=thenocturnaldevgypsy-io&repo=ama-ask-me-anything&theme=transparent&hide_border=true" /></a>
 
@@ -74,10 +74,10 @@ end option 1 -->
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                75 commits          ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   22.12 % 
-🌆 Daytime                84 commits          ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   24.78 % 
-🌃 Evening                89 commits          ⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   26.25 % 
-🌙 Night                  91 commits          ⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   26.84 % 
+🌞 Morning                75 commits          ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   22.39 % 
+🌆 Daytime                84 commits          ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   25.07 % 
+🌃 Evening                85 commits          ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   25.37 % 
+🌙 Night                  91 commits          ⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   27.16 % 
 ```
 
 
@@ -85,13 +85,13 @@ end option 1 -->
 
 ```text
 🔥 Editors: 
-Unknown Editor           47 hrs 9 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜   64.50 % 
-VS Code                  24 hrs 45 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   33.86 % 
-Firefox                  1 hr 11 mins        ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.64 % 
+Unknown Editor           48 hrs 44 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜   71.51 % 
+VS Code                  18 hrs 13 mins      ⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   26.73 % 
+Firefox                  1 hr 11 mins        ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.76 % 
 
 💻 Operating System: 
-Windows                  42 hrs 59 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   58.79 % 
-Mac                      30 hrs 7 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   41.21 % 
+Windows                  38 hrs 2 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   55.80 % 
+Mac                      30 hrs 7 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   44.20 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -107,7 +107,7 @@ TypeScript               1 repo              ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜�
 
 
 
- Last Updated on 11/11/2024 05:36:03 UTC
+ Last Updated on 10/11/2024 11:20:43 UTC
 <!--END_SECTION:waka-->
 
 <!---
