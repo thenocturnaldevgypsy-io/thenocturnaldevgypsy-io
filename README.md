@@ -1,16 +1,12 @@
 ## <img src="md_assets/logo.png" height="30"/> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&weight=500&size=19&letterSpacing=3&duration=6000&pause=3000&vCenter=true&width=490&height=25&lines=Ohayo++%2C+I'm+Abby+(%40TheNocturnalDevGypsy+since+2002))](https://git.io/typing-svg)
 
-<a href="https://github.com/thenocturnaldevgypsy-io/ama-ask-me-anything"><img align="left" valign="top" width="380" src="https://github-stats-iota-henna.vercel.app/api/pin/?username=thenocturnaldevgypsy-io&repo=ama-ask-me-anything&theme=transparent&hide_border=true" /></a>
-
-<br> 
-
 <img align="left" valign="top" src="https://custom-icon-badges.demolab.com/badge/STATUS-%20%23OPENFORWORK%20|%20AVAILABLE-1A1A1A?logo=eye&logoColor=white&labelColor=2471AE&color=1A1A1A" />
-
 <br>
-
 ↦ :octocat: : Technical Project & Operation Manager, Product Owner & Manager, Technical Writer & Old-school Full-Stack Developer. I'm also an Academic Head of School of Computer Studies & Assistant Professor, but `on-hiatus`. 
 
 ↦ 🧪 : Currently exploring AI Text to Image Prompts, learning more about Crypto & NFTs, catching up with front-end & back-end technologies ATM (& some [Code Challenges](https://github.com/thenocturnaldevgypsy-io/code_challenges) too). Planning to start some open source projects: Static Page Generator, Font Library for Crypto, Link in Bio CMS. Loving GitHub [Projects](https://github.com/thenocturnaldevgypsy-io?tab=projects) ATM too.
+
+↦ 💬 : Feel free to contact me by [creating a new discussion](https://github.com/thenocturnaldevgypsy-io/thenocturnaldevgypsy-io/discussions/new?category=ask-me-anything-ama-and-q-a) at **💬 Ask Me Anything! (AMA and Q&A)** category under my GitHub Profile Repo's Discussions.
 
 ## ![SECTION Fun Fact!](https://custom-icon-badges.demolab.com/badge/-Fun%20Fact!-2471AE?logo=paintbrush&logoColor=white&labelColor=2471AE)
 ↦ 🎨 : I do traditional Pen and Ink + Watercolour Illustrations too! 
