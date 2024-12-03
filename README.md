@@ -4,7 +4,13 @@
 
 - :octocat: : Technical Project & Operation Manager, Product Owner & Manager, Technical Writer & Old-school Full-Stack Developer. I'm also an Academic Head of School of Computer Studies & Assistant Professor, but `on-hiatus`. 
 
-- 🧪 : Currently exploring AI Text to Image Prompts, learning more about Crypto & NFTs, catching up with front-end & back-end technologies ATM (& some [Code Challenges](https://github.com/thenocturnaldevgypsy-io/code_challenges) too). Planning to start some open source projects: Static Page Generator, Font Library for Crypto, Link in Bio CMS. Loving GitHub [Projects](https://github.com/thenocturnaldevgypsy-io?tab=projects) ATM too.
+- 🧪 : Currently exploring AI Text to Image Prompts, learning more about Crypto & NFTs, catching up with front-end & back-end technologies ATM (& some [Code Challenges](https://github.com/thenocturnaldevgypsy-io/code_challenges)). Loving GitHub [Projects](https://github.com/thenocturnaldevgypsy-io?tab=projects) ATM too.
+
+<!-- - 🚀 : Open Source Projects Authored and Maintained: 
+   - https://github.com/thenocturnaldevgypsy-io/nightfall-bootstrap-template-personal
+   - https://github.com/thenocturnaldevgypsy-io/gypsyshards-bootstrap-template-linkinbio 
+
+- 💡 : Planning to start the following open source projects by 2025: Static Page Generator, Font Library for Crypto, Link in Bio CMS. -->
 
 - 💬 : Feel free to contact me by [creating a new discussion](https://github.com/thenocturnaldevgypsy-io/thenocturnaldevgypsy-io/discussions/new?category=ask-me-anything-ama-and-q-a) at **💬 Ask Me Anything! (AMA and Q&A)** category under my GitHub Profile Repo's Discussions.
 
