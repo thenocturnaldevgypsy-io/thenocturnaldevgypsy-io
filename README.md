@@ -14,6 +14,10 @@
 
 - 💬 : Feel free to contact me by [creating a new discussion](https://github.com/thenocturnaldevgypsy-io/thenocturnaldevgypsy-io/discussions/new?category=ask-me-anything-ama-and-q-a) at **💬 Ask Me Anything! (AMA and Q&A)** category under my GitHub Profile Repo's Discussions.
 
+<!-- <details open> 
+  <summary><h2>📘 My Top Open Source Projects</h2></summary>
+</details> -->
+
 ## ![SECTION Fun Fact!](https://custom-icon-badges.demolab.com/badge/-Fun%20Fact!-2471AE?logo=paintbrush&logoColor=white&labelColor=2471AE)
 ↦ 🎨 : I do traditional Pen and Ink + Watercolour Illustrations too! 
 
