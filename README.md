@@ -67,13 +67,13 @@ Aside🌟, 👁️, 🔱 & ❤️ some of the repos - hire me, buy some of my NF
 <img width="295" valign="top" align="center" src="https://gh-stats-1.vercel.app/api/top-langs/?username=thenocturnaldevgypsy-io&layout=compact&theme=transparent&hide_border=true&langs_count=10"><img valign="top" align="center" width="475" src="https://github-readme-streak-stats-chi-inky.vercel.app?user=thenocturnaldevgypsy-io&theme=transparent&hide_border=true" alt="GitHub Streak" />
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
+**I'm an Early 🐤** 
 
 ```text
-🌞 Morning                148 commits         ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   13.43 % 
-🌆 Daytime                327 commits         ⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   29.67 % 
-🌃 Evening                377 commits         ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   34.21 % 
-🌙 Night                  250 commits         ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   22.69 % 
+🌞 Morning                0 commits           ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.00 % 
+🌆 Daytime                2 commits           ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
+🌃 Evening                0 commits           ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.00 % 
+🌙 Night                  0 commits           ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.00 % 
 ```
 
 
@@ -86,7 +86,7 @@ Windows                  11 hrs 47 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜�
 ```
 
 
- Last Updated on 25/02/2025 05:16:21 UTC
+ Last Updated on 25/02/2025 06:22:49 UTC
 <!--END_SECTION:waka-->
 
 <!---
